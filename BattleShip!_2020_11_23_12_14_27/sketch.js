@@ -165,7 +165,7 @@ function setup() {
 function draw() {
   background(0);
 
-  back.play()
+  //back.play()
 
   if (gameState === "play") {
 
